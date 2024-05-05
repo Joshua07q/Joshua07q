@@ -7,7 +7,7 @@
 - phone: 09116896136
 - 😄 Pronouns: ..I'm a really fun and creative person to work with
   
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I study statistics and play video games 
 
 <!---
 Joshua07q/Joshua07q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
