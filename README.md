@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Joshua07q
 - 👀 I’m interested in everything programming 
-- 🌱 I’m currently learning ReactTs and Postgres SQL 
-- 💞️ I’m looking to collaborate on solving real world problems
+- 🌱 I’m currently learning ReactTs and PostgreSQL 
+- 🤓I’m looking to collaborate on solving real world problems.
 - 📫 How to reach me ...
-- email: joshuaoludimutric007@gmail.com
-- phone: 09116896136
+- 📩email: joshuaoludimutric007@gmail.com
+- 📞phone: 09116896136
 - 😄 Pronouns: ..I'm a really fun and creative person to work with
   
 - ⚡ Fun fact: ...I study statistics and play video games 
